@@ -1,4 +1,4 @@
-## Portfolio
+## Welcome to my portfolio
 
 ---
 
@@ -17,13 +17,15 @@
 
 ---
 
-### Category Name 2
+### Skills
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Excel
+- R
+- Python
+- Powerpoint
+- Word
+- SQL Queries
+- Currently learning Power BI
 
 ---
 
