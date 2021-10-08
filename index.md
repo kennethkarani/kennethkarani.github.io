@@ -2,10 +2,10 @@
 
 ---
 
-### Projects  
+### My First Project 
 
-#### Covid 
-<img src="images/CovidDashboard.png?raw=true"/>
+Visualizing Covid Statistics. Using SQL for data cleaning and Tableau for visualization. 
+<img src="images/Dashboard1.png?raw=true"/>
 
 
 
@@ -18,8 +18,9 @@
 - Python
 - Powerpoint
 - Word
-- SQL Queries
+- SQL
 - Currently learning Power BI
+- Tableau
 
 ---
 
