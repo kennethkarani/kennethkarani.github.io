@@ -5,6 +5,7 @@
 ### My First Project 
 
 Visualizing Covid Statistics. Using SQL for data cleaning and Tableau for visualization. 
+<br> 
  <a href="https://ourworldindata.org/covid-deaths">Raw Data</a> 
  <a href="https://github.com/kennethkarani/CovidProject/blob/main/Project!.sql">See my Code</a> 
 <img src="images/Dashboard1.png?raw=true"/>
