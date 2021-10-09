@@ -15,7 +15,8 @@ Visualizing Covid Statistics. Using SQL for data cleaning and Tableau for visual
 
 ### Data Cleaning Project SQL
 
-Cleaning a large dataset of over 56,000 rows. 
+Cleaning a large dataset of over 56,000 rows. Check out the specifics on this <a href="https://github.com/kennethkarani/Data-Cleaning-SQL">page</a>.
+<img src="images/DataCleaning.jpeg?raw=true"/>
 
 ---
 
