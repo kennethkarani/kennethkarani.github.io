@@ -13,7 +13,9 @@ Visualizing Covid Statistics. Using SQL for data cleaning and Tableau for visual
  <a href="https://public.tableau.com/app/profile/kenneth3673/viz/CovidDashboard_16335821837750/Dashboard1">Full Dashboard</a> 
 <img src="images/Dashboard1.png?raw=true"/>
 
+### Data Cleaning Project SQL
 
+Cleaning a large dataset of over 56,000 rows. 
 
 ---
 
