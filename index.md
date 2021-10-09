@@ -2,7 +2,7 @@
 
 ---
 
-### My First Project 
+### My First Project SQL and Tableau
 
 Visualizing Covid Statistics. Using SQL for data cleaning and Tableau for visualization. 
 <br> 
