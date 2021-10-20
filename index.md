@@ -10,8 +10,10 @@ Visualizing Covid Statistics. Using SQL for data cleaning and Tableau for visual
  <br>
  <a href="https://github.com/kennethkarani/CovidProject/blob/main/Project!.sql">See my Code</a> 
  <br>
+ <center>
  <a href="https://public.tableau.com/app/profile/kenneth3673/viz/CovidDashboard_16335821837750/Dashboard1">Full Dashboard</a> 
-<img src="images/Dashboard1.png?raw=true"/>
+ </center>
+ <img src="images/Dashboard1.png?raw=true"/>
 
 ### Machine Learning Web App using Python, HTML CSS, Flask, Heroku and more. 
 
