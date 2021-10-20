@@ -23,7 +23,9 @@ I made a web app that predicts house price based on data I created, trained and 
 <br>
 <a href="https://github.com/kennethkarani/simple-machine-learning-app/blob/main/app.py">Python/Flask Code to make the App</a>
 <br>
+<center>
 <a href="https://ml-house-prices-app.herokuapp.com/">The App</a> 
+</center>
 <img src="images/apppic.png?raw=true"/>
 
 
